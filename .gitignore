@@ -1,0 +1,22 @@
+# Arquivos de ambiente
+.env
+
+# Pasta do VSCode
+.vscode/
+
+# Arquivos e pastas do Composer
+composer.lock
+/vendor/
+
+# Arquivos e pastas do Docker
+docker-compose.ymlZone.Identifier
+/phpdocker/
+
+# Arquivos e pastas de armazenamento
+/storage/
+
+# Pasta de fornecedores antigos
+/v/
+
+# Arquivos NUL
+NUL
